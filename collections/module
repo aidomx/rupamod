@@ -1,0 +1,4 @@
+author = "Aidomx"
+name = "collections"
+description = "Array and collection utility functions"
+version = "v1.0.0"
